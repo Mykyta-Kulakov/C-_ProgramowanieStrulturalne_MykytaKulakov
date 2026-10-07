@@ -1,0 +1,2 @@
+# C-_ProgramowanieStrulturalne_MykytaKulakov
+programowanie strukturalne
